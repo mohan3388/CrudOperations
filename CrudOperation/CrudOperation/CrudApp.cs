@@ -78,7 +78,7 @@ namespace CrudOperation
                     {
                         Console.WriteLine("Id = " + dr["id"] + " Name = " + dr["name"] + " Age = " + dr["age"] + " Gender = " + dr["gender"] + " Salary = " + dr["Salary"] + " City = " + dr["City"]);
                     }
-                    Console.WriteLine("--------------");
+                    Console.WriteLine("-------------");
                     Console.WriteLine(" ");
                 }
             }
